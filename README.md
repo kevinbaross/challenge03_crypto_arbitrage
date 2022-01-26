@@ -28,6 +28,7 @@ Brought to you by: ET Home Loans
 Initial code is provided by: UC Berkeley Fintech Bootcamp
 
 Code is modified by: Kevin BaRoss [[LinkedIn](https://www.linkedin.com/in/kevin-baross/)]
+
 Analysis report is produced by: Kevin BaRoss [[LinkedIn](https://www.linkedin.com/in/kevin-baross/)]
 
 
